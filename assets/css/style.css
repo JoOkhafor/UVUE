@@ -2,15 +2,6 @@
 
 /* CSS Document */
 
-/* ==========================================================================
-Theme Name: Gracious
-Theme URI: http://mannatstudio.com
-Description:  Gracious - Charity and Donation HTML Template
-Version: 1.0
-Author: Mannat Studio
-Tags:   charity, charity agency, charity foundation, charity template, church, donate, donation, fundraiser, fundraising, mosque, ngo, non-profit, nonprofit, organization, volunteer
-========================================================================== */
-
 /* ==================== 
 Table of Content 
 ==================== 
@@ -4301,9 +4292,8 @@ footer .social-icons a:hover{
     border-color: #477763;
 }
 .static-banner{
-    padding: 15rem 0 9rem 0;
+    padding: 5rem 0 3rem 0;
     position: relative;
-    box-shadow: 0px 0px 57px 0px rgba(0, 0, 0, 0.5);
 }
 
 .static-banner .slider-link{
