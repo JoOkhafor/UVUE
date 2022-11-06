@@ -416,11 +416,15 @@ a:focus {
     font-weight: 700;
     font-size: 1rem;
 }
+
+.navbar-nav .active{
+    background: #ad9d7f47;
+}
+
 .navbar-nav .nav-item:hover .nav-link,
 .navbar-nav .active .nav-link,
 .navbar-nav .active .nav-link:hover,
 .navbar-nav .nav-link:hover{
-    color: #FFF;
     background: #D59B2D;
 }
 .navbar-nav .dropdown-menu {
@@ -905,6 +909,12 @@ h2.h2-xl { font-size: 1.5rem; }     /* 24px */
 }
 .bg-img-6{
 	background-image: url(../images/callout_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.bg-help-us{
+	background-image: url(../images/bg-help-us.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -2279,7 +2289,7 @@ footer .social-icons a:hover{
     margin: 0;
 }
 .footer-widget-menu ul li:not(:last-child){
-    padding: 0px 0 1rem 0;
+    padding: 0px 0 0.7rem 0;
 }
 .footer-widget-menu ul li *{
     -webkit-transition: all 400ms ease-in-out;
@@ -3945,7 +3955,7 @@ footer .social-icons a:hover{
 .funds-committed .counter::after{
     position: absolute;
     z-index: 1;
-    content: "$";
+    content: "€";
     font-family: 'Nunito', sans-serif;
     left: 0;
 }
@@ -4256,7 +4266,7 @@ footer .social-icons a:hover{
     background-color: #5A3A31;
     background-repeat: repeat;
     padding: 4rem 3rem;
-    border-radius: 0 0 10px 10px;
+    border-radius:10px;
     margin-bottom: -109px;
 }
 .home-second-donation-form .form-style label{
