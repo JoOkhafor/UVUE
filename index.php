@@ -1,43 +1,9 @@
 <!doctype html>
 <html lang="en">
 
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
-  <title>UVUE-Togo</title>
-  <meta name="author" content="Mannat Studio">
-  <meta name="description" content="Gracious is a Responsive HTML5 Template for Charity and NGO related services.">
-  <meta name="keywords"
-    content="Gracious, responsive, html5, charity, charity agency, charity foundation, charity template, church, donate, donation, fundraiser, fundraising, mosque, ngo, non-profit, nonprofit, organization, volunteer">
-
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo_white.png">
-
-  <link href="assets/library/animate/animate.min.css" rel="stylesheet">
-
-  <link href="assets/library/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <link href="assets/library/icofont/icofont.min.css" rel="stylesheet">
-
-  <link href="assets/library/owlcarousel/css/owl.carousel.min.css" rel="stylesheet">
-
-  <link href="assets/library/select2/css/select2.min.css" rel="stylesheet">
-
-  <link href="assets/library/magnific-popup/magnific-popup.css" rel="stylesheet">
-
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <link rel="stylesheet" href="assets/css/home-main.css">
-
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
-</head>
+<?php     
+        include 'components/head.php'
+    ?>
 
 <body>
 
@@ -63,18 +29,16 @@
             </div>
             <div>
               <i data-feather="mail"></i> <a
-                href="https://mannatstudio.com/cdn-cgi/l/email-protection#1c75727a735c7b6e7d7f7573696f327f7371"><span
-                  class="__cf_email__"
-                  data-cfemail="2d44434b426d4a5f4c4e4442585e034e4240">uvue.togo@gmail.com</span></a>
+                href="mailto:uvue.togo@gmail.com"><span
+                  class="__cf_email__">uvue.togo@gmail.com</span></a>
             </div>
             <div>
-              <i data-feather="clock"></i> Lun-Ven / 9h:00 - 19h:00
+              <i data-feather="clock"></i> Lun-Ven  | 7h:00 - 17h:00
             </div>
           </div>
           <div class="col-md-auto">
             <div class="social-icons">
               <a href="#"><i class="icofont-facebook"></i></a>
-              <a href="#"><i class="icofont-twitter"></i></a>
               <a href="#"><i class="icofont-instagram"></i></a>
               <a href="#"><i class="icofont-youtube-play"></i></a>
             </div>
@@ -92,7 +56,7 @@
         </div>
 
         <div class="d-inline-flex request-btn order-lg-last col-auto p-0 align-items-center">
-          <a class="nav-link btn btn-default ml-3 donate-btn" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas">Faire un don</a>
+          <a target="_blank" class="nav-link btn btn-default ml-3 donate-btn" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas">Faire un don</a>
 
           <button class="navbar-toggler x collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -107,16 +71,16 @@
           <ul class="navbar-nav ml-auto">
 
             <li class="nav-item">
-              <a class="nav-link" href="index.html">Acceuil</a>
+              <a class="nav-link" href="index.php">Acceuil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="nos-activites.html">Nos actions</a>
+              <a class="nav-link" href="nos-actions.php">Nos actions</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about-us.html">Nous connaître</a>
+              <a class="nav-link" href="a-propos.php">Nous connaître</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="become-volunteers.html">Devenir Bénévole</a>
+              <a class="nav-link" href="devenir-volontaire.php">Devenir Bénévole</a>
             </li>
 
           </ul>
@@ -222,7 +186,9 @@
                   <a href="causes-single.html"><img src="assets/images/donation.png" alt=""></a>
 
                 </div>
-                <button type="submit" class="btn btn-default mt-3 btn-block">Faire un don</button>
+                <a target="_blank" class="btn btn-default mt-3 btn-block" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas"> Faire un don
+
+                </a>
               </form>
             </div>
           </div>
@@ -294,11 +260,11 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="causes-single.html"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
+                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
               </div>
               <div class="text">
                 <h3>SOCIAL</h3>
-                <p>A wonderful serenity has taken possession of my entire soul</p>
+                <p>Nous organisons en milieux scolaires des sensibilisation sur l'hygiène, les  premiers secours...</p>
                 <div class="text-md-right">
                   <a href="causes-single.html" class="read-more-line"><span>Lire plus</span></a>
                 </div>
@@ -310,13 +276,13 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="causes-single.html"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
+                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
               </div>
               <div class="text">
-                <h3>SCOLAIRE</h3>
-                <p>A wonderful serenity has taken possession of my entire soul</p>
+                <h3>EDUCATION</h3>
+                <p>Nous soutenons l'éducation des enfants à travers des séances de soutien scolaire...</p>
                 <div class="text-md-right">
-                  <a href="causes-single.html" class="read-more-line"><span>Lire plus</span></a>
+                  <a href="nos-activites.html" class="read-more-line"><span>Lire plus</span></a>
                 </div>
               </div>
             </div>
@@ -329,14 +295,14 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="causes-single.html"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
+                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
               </div>
               <div class="text">
                 <h3>ENVIRONEMENT ET SANTE
                 </h3>
-                <p>A wonderful serenity has taken possession of my entire soul</p>
+                <p>Nous favorisons le reboisement afin de contrer la déforestation sous toute ces formes.</p>
                 <div class="text-md-right">
-                  <a href="causes-single.html" class="read-more-line"><span>Lire plus</span></a>
+                  <a href="nos-activites.html" class="read-more-line"><span>Lire plus</span></a>
                 </div>
               </div>
             </div>
@@ -555,151 +521,16 @@
 
 
   </main>
-  <footer class="wide-tb-70 pb-0 mb-spacer-md">
-    <div class="container pos-rel">
-      
-      <div class="row">
-  
-        <div class="col-lg-3 col-md-6">
-          <div class="logo-footer">
-            <img src="assets/images/logo_white.svg" alt="">
-          </div>
-          <p>Une vie, Un espoir. <br> Pour un monde plus juste</p>
-          <div class="social-icons">
-            <ul class="list-unstyled list-group list-group-horizontal">
-              <li><a href="#"><i class="icofont-facebook"></i></a></li>
-              <li><a href="#"><i class="icofont-twitter"></i></a></li>
-              <li><a href="#"><i class="icofont-instagram"></i></a></li>
-              <li><a href="#"><i class="icofont-behance"></i></a></li>
-              <li><a href="#"><i class="icofont-youtube-play"></i></a></li>
-            </ul>
-          </div>
-        </div>
-  
-  
-        <div class="col-lg-4 col-md-6">
-          <h3 class="footer-heading">Informations de contact</h3>
-          <div class="footer-widget-contact">
-            <ul class="list-unstyled">
-              <li>
-                <div><i data-feather="map-pin"></i> </div>
-                <div>Envato Pty Ltd, 13/2 Elizabeth St Melbourne VIC 3000, Australia</div>
-              </li>
-              <li>
-                <div><i data-feather="phone"></i> </div>
-                <div><a href="tel:+22893577339">+228 93577339</a></div>
-              </li>
-              <li>
-                <div><i data-feather="mail"></i> </div>
-                <div><a
-                    href="https://mannatstudio.com/cdn-cgi/l/email-protection#97fef9f1f8d7fff8e7f2e5f6fee4f2b9f4f8fa"><span>uvue.togo@gmail.com</span>
-                      </span></a></div>
-              </li>
-              <li>
-                <div><i data-feather="clock"></i> </div>
-                <div>Mon-Fri / 9:00 AM - 19:00 PM</div>
-              </li>
-            </ul>
-          </div>
-        </div>
-  
-  
-        <div class="w-100 d-none d-md-block d-lg-none spacer-30"></div>
-  
-  
-        <div class="col-lg-2 col-md-6">
-          <h3 class="footer-heading">Explorer</h3>
-          <div class="footer-widget-menu">
-            <ul class="list-unstyled">
-              <li><a href="#"><i class="icofont-simple-right"></i> <span>Acceuil</span></a></li>
-              <li><a href="#"><i class="icofont-simple-right"></i> <span>A Propos</span></a></li>
-              <li><a href="#"><i class="icofont-simple-right"></i> <span>Nos actions</span></a></li>
-              <li><a href="#"><i class="icofont-simple-right"></i> <span>Devenir volontaire</span></a></li>
-              <li><a href="#"><i class="icofont-simple-right"></i> <span>Faire un don</span></a></li>
-            </ul>
-          </div>
-        </div>
-  
-  
-        <div class="col-lg-3 col-md-6">
-          <h3 class="footer-heading">Gallerie</h3>
-          <ul id="basicuse" class="photo-thumbs"></ul>
-          <ul id="basicuse" class="photo-thumbs"></ul>
-        </div>
-  
-      </div>
-    </div>
-    <div class="copyright-wrap">
-      <div class="container pos-rel">
-        <div class="row text-md-start text-center">
-          <div class="col-sm-12 col-md-auto copyright-text">
-            © 2022 <span class="txt-blue">UVUE-Togo</span>Tous droits réservés</a>
-          </div>
-          <div class="col-sm-12 col-md-auto ml-md-auto text-md-right text-center copyright-links">
-            <a href="#">Termes & Conditions</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+
+    <?php     
+        include 'components/footer.php';
+        include 'components/back-to-top.php';
+        include 'components/footer-script.php'
+    ?>
 
 
-  <div class="overlay overlay-hugeinc">
-    <form class="form-inline mt-2 mt-md-0">
-      <div class="form-inner">
-        <div class="form-inner-div d-inline-flex align-items-center no-gutters">
-          <div class="col-auto">
-            <i class="icofont-search"></i>
-          </div>
-          <div class="col">
-            <input class="form-control w-100 p-0" type="text" placeholder="Search" aria-label="Search">
-          </div>
-          <div class="col-auto">
-            <a href="#" class="overlay-close link-oragne"><i class="icofont-close-line"></i></a>
-          </div>
-        </div>
-      </div>
-    </form>
-  </div>
 
 
-  <a id="mkdf-back-to-top" href="#" class="off"><i data-feather="corner-right-up"></i></a>
-
-
-  <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-  <script src="assets/library/jquery/jquery.min.js"></script>
-
-  <script src="assets/library/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <script src="assets/library/feather-icons/feather.min.js"></script>
-
-  <script src="assets/library/owlcarousel/js/owl.carousel.min.js"></script>
-
-  <script src="assets/library/select2/js/select2.min.js"></script>
-
-  <script src="assets/library/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-  <script src="assets/library/jflickrfeed/jflickrfeed.min.js"></script>
-
-  <script src="assets/library/jquery-waypoints/jquery.waypoints.min.js"></script>
-
-  <script src="assets/library/countdown/jquery.countdown.min.js"></script>
-
-  <script src="assets/library/jquery-appear/jquery.appear.js"></script>
-
-  <script src="assets/library/jquery-easing/jquery.easing.min.js"></script>
-
-  <script src="assets/library/jquery.counterup/jquery.counterup.min.js"></script>
-
-  <script src="assets/library/jquery-validate/jquery.validate.min.js"></script>
-
-  <script src="assets/js/site-custom.js"></script>
-
-  <script src="assets/js/home-slider.js"></script>
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
-    integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="
-    data-cf-beacon='{"rayId":"76050e9c9fa3e63c","version":"2022.10.3","r":1,"token":"64224fc8786846928480d180dfc466bd","si":100}'
-    crossorigin="anonymous"></script>
 </body>
 
 </html>
