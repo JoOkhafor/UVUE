@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
-  <title>Gracious - Charity and Donation HTML Template</title>
+  <title>UVUE - Togo</title>
   <meta name="author" content="Mannat Studio">
   <meta name="description" content="Gracious is a Responsive HTML5 Template for Charity and NGO related services.">
   <meta name="keywords"
