@@ -3609,6 +3609,8 @@ footer .social-icons a:hover{
         padding-right: 0;
         margin-bottom: 2rem;
     }
+
+   
 }
 .social-icons-team{
     padding: 2rem 0 0 0;
@@ -5979,6 +5981,9 @@ label.error {
 
 
 @media (max-width: 991.99px) {
+    .top-bar-right {
+        background: #f3f3f3;
+    }
     .give-us-call { right: auto; position: relative; text-align: left; left: 15px; padding-top: 1rem; }
     .give-us-call svg {left: 120px;}
 	.demo-btns .col{ max-width: 33.33%; flex: 0 0 33.33%; text-align: left !important; }
@@ -5991,7 +5996,7 @@ label.error {
 	.navbar-toggler{ padding: 20px 0; outline: none !important; margin-left: 15px; }
 	/* .navbar-expand-md .navbar-nav .nav-item, .navbar-expand-lg .navbar-nav .nav-item { padding: 0.2rem 0; } */
     .navbar-expand-md .navbar-nav .nav-item, .navbar-expand-lg .navbar-nav .nav-item:not(:last-child) {  border-bottom: 1px solid rgba(51, 51, 51, 0.10); }
-    .header-style-fullwidth .navbar-expand-lg .navbar-nav .nav-item{ padding: 0; border-bottom: 1px solid rgba(255, 255, 255, 0.10); }
+    .header-style-fullwidth .navbar-expand-lg .navbar-nav .nav-item{ padding: 0; border-bottom: 1px solid rgba(51, 51, 51, 0.10); }
     .navbar-nav .nav-link i.icofont-rounded-down { transition: all 400ms ease-in-out; }
     .navbar-nav .nav-item.show i.icofont-rounded-down { display: inline-block; transform: rotate(180deg); }
 	.navbar-expand-lg .navbar-nav .nav-link{ display: flex !important; align-items: center; justify-content: space-between; background: transparent; padding: 0.5rem 0;}
@@ -6053,16 +6058,28 @@ label.error {
 	/* Home Version 2 */
 	.home-style-second.main-banner .slides-wrap .owl-carousel .owl-nav{ right: 126px; }
 	.home-second-donation-form .funds-committed { margin-top: -101px; }
-	.header-style-fullwidth{ background: #477763; position: relative; }
-	.header-style-fullwidth .navbar-toggler .icon-bar { background-color: #FFF; }
+	.header-style-fullwidth{ background: #fff; position: relative; }
+	.header-style-fullwidth .navbar-toggler .icon-bar { background-color: #040404; }
 	.home-style-second.main-banner .slides-wrap .owl-carousel .owl-slide { min-height: 768px; }
 	.home-second-donation-form .form-style { margin-bottom: 0; }
 	.bg-img-1 { background-position: right center !important; }
 	.footer-second .bg-effect:before { width: calc(150% - 0px); height: calc(50%); bottom: 0; right: auto; top: -70px; background-size: cover; left: 50%; transform: translateX(-50%); }
 	.footer-second .footer-subscribe { max-width: 70%; margin-top: 100px;	}
 
+    .header-style-fullwidth .navbar-expand-lg .navbar-nav .nav-link {
+        color: #3e3e3e;
+    }
+
 	/* Home Version 3 */
 	.homestyle-third{ background: #FFF; position: relative;}
+    .top-bar-right .contact-info svg {
+        margin-right: 0.3rem;
+        margin-top: -2px;
+        color: #403e3d!important;
+    }
+    .top-bar-right a {
+        color: #302f2f;
+    }
 	.static-banner{ padding: 4rem 0 7rem; }
 	.banner-text{ padding-bottom: 3rem; }
 	.welcom-section-3 .hand-heart{ display: none; }

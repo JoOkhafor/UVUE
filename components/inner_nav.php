@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg header-fullpage">
       <div class="container text-nowrap">
         <div class="d-flex align-items-center w-100 col p-0 logo-brand">
-          <a class="navbar-brand rounded-bottom light-bg" href="index.html">
+          <a class="navbar-brand rounded-bottom light-bg" href="index.php">
             <img src="assets/images/logo_white.svg" alt="">
           </a>
         </div>

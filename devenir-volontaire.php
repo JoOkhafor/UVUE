@@ -193,7 +193,7 @@
                     <div class="form-group">
                       <label for="state"><strong>Civilité</strong></label>
                       <select class="theme-combo home-charity select2-hidden-accessible" id="civilite" name="civilite"
-                        style="height: 400px" tabindex="-1" aria-hidden="true" data-select2-id="select2-data-state">
+                        style="height: 400px" tabindex="-1" >
                         <option value="Charity For Food">M.</option>
                         <option value="Charity For Education">Mlle</option>
                         <option value="Charity For Medical">Mme</option>
@@ -222,7 +222,6 @@
                       <label for="state"><strong>Choisissez un domaine</strong></label>
                       <select class="theme-combo home-charity select2-hidden-accessible" id="state" name="state"
                         style="height: 400px" tabindex="-1" aria-hidden="true" data-select2-id="select2-data-state">
-                        <option data-select2-id="select2-data-9-inp6">Selectionner</option>
                         <option value="Charity For Food">santé</option>
                         <option value="Charity For Education">Education</option>
                         <option value="Charity For Medical">Evironement</option>
