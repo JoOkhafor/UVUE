@@ -262,7 +262,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="modalbox success  center animate">
                 <div class="icon">
                     <div class="glyphicon glyphicon-ok">
-                        <img src="assets/media/images/icons/like.svg" alt="" srcset="">
+                        <img src="assets/images/like.svg" alt="" srcset="">
     </div>
                 </div>
                 <!--/.icon-->

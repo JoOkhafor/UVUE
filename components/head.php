@@ -8,7 +8,7 @@
         /* The Modal (background) */
         .modal {
           position: fixed; /* Stay in place */
-          z-index: 1; /* Sit on top */
+          z-index: 99999; /* Sit on top */
           left: 0;
           top: 0;
           width: 100%; /* Full width */
@@ -93,8 +93,8 @@
           margin-top: 15px;
           margin-bottom: 15px;
           width: 80%;
-          background: transparent;
-          color: #4caf50;
+          background:#4caf50;
+          color: #fff;
           border-color: #4caf50;
           outline: none;
           cursor: pointer;

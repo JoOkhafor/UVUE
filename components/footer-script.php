@@ -28,6 +28,7 @@
   <script src="assets/js/site-custom.js"></script>
 
   <script src="assets/js/home-slider.js"></script>
+  <script src="assets/js/sweetalert.js"></script>
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"
     integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="
     data-cf-beacon='{"rayId":"76050e9c9fa3e63c","version":"2022.10.3","r":1,"token":"64224fc8786846928480d180dfc466bd","si":100}'
