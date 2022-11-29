@@ -28,7 +28,7 @@
         <h1>Qui sommes nous</h1>
         <nav aria-label="breadcrumb" class="breadcrumb-wrap">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html">Acceuil</a></li>
+            <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
             <li class="breadcrumb-item active" aria-current="page">A Propos</li>
           </ol>
         </nav>
@@ -142,7 +142,7 @@
             </h1>
           </div>
           <div class="col-lg-8 col-md-6 text-md-right btn-team">
-            <a href="volunteers.html" class="btn btn-outline-dark">Nous rejoindre</a>
+            <a href="devenir-benevole.php" class="btn btn-outline-dark">Nous rejoindre</a>
           </div>
         </div>
         <div class="row">
@@ -181,8 +181,8 @@
                 
                 <img src="assets/images/team/team-3.jpg" alt="" class="rounded-circle">
               </div>
-              <h4>Assogba Koffi</h4>
-              <h5>Freeman</h5>
+              <h4>Assogba Komi Freeman</h4>
+              <h5>Tréosrier</h5>
             </div>
           </div>
 
@@ -243,11 +243,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_1.jpg" alt=""></a>
+                <a href=""><img src="assets/images/events/event_alternate_img_1.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">VOYAGER AVEC NOUS</a></h3>
+                  <h3><a href="devenir-benevole.php">VOYAGER AVEC NOUS</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -261,11 +261,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_3.jpg" alt=""></a>
+                <a href="devenir-benevole.php"><img src="assets/images/events/event_alternate_img_3.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">STAGE INTERNATIONAL</a></h3>
+                  <h3><a href="devenir-benevole.php">STAGE INTERNATIONAL</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -279,11 +279,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_4.jpg" alt=""></a>
+                <a href="devenir-benevole.php"><img src="assets/images/events/event_alternate_img_4.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">STAGE INFIRMIER​  </a></h3>
+                  <h3><a href="devenir-benevole.php">STAGE INFIRMIER​  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -297,11 +297,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_5.jpg" alt=""></a>
+                <a href="devenir-benevole.php"><img src="assets/images/events/event_alternate_img_5.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">SOUTIEN SCOLAIRE</a></h3>
+                  <h3><a href="devenir-benevole.php">SOUTIEN SCOLAIRE</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -314,11 +314,11 @@
             <div class="event-wrap-alternate">
 
               <div class="img-wrap">
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_6.jpg" alt=""></a>
+                <a href="devenir-benevole.php"><img src="assets/images/events/event_alternate_img_6.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">BÉNÉVOLAT - RENFORCEMENT ASSOCIATIF                  </a></h3>
+                  <h3><a href="devenir-benevole.php">BÉNÉVOLAT - RENFORCEMENT ASSOCIATIF                  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -331,11 +331,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_6.jpg" alt=""></a>
+                <a href="devenir-benevole.php"><img src="assets/images/events/event_alternate_img_7.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">CAMPS CHANTIERS                  </a></h3>
+                  <h3><a href="devenir-benevole.php">CAMPS CHANTIERS                  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -347,6 +347,7 @@
         
       </div>
     </section>
+
 
 
 

@@ -106,7 +106,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <h1>Nos activités</h1>
         <nav aria-label="breadcrumb" class="breadcrumb-wrap">
           <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html">Acceuil</a></li>
+            <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
             <li class="breadcrumb-item active" aria-current="page">Nos activités</li>
           </ol>
         </nav>
@@ -138,10 +138,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
               <div class="item">
                 <div class="blog-post-broken">
                   <div class="post-img">
-                    <a href="blog-single.html"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
+                    <a href="#"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
                   </div>
                   <div class="post-content">
-                    <h3 class="post-title"><a href="blog-single.html">SOCIAL</a></h3>
+                    <h3 class="post-title"><a href="#">SOCIAL</a></h3>
 
                     <p>Nous organisons plusieurs activités à l'endroit des populations rurales et de Lomé la capitale axées sur la lutte contre le VIH/SIDA au travers des sensibilisations sur la santé sexuelle et reproductive (formation, campagne de dépistage, sensibilisation et autres) et en milieux scolaires des activités de formation et de sensibilisation sur les règles d'hygiène, les premiers secours, l'alimentation, le diabète, etc....
                     </p>
@@ -154,10 +154,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
               <div class="item">
                 <div class="blog-post-broken">
                   <div class="post-img">
-                    <a href="blog-single.html"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
+                    <a href="#"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
                   </div>
                   <div class="post-content">
-                    <h3 class="post-title"><a href="blog-single.html">EDUCATION</a></h3>
+                    <h3 class="post-title"><a href="#">EDUCATION</a></h3>
 
                     <p>Nous soutenons et privilégions l'éducation des enfants à travers des séances de soutien scolaire qui est l'une de nos importante activités
                     </p>
@@ -175,10 +175,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
               <div class="item">
                 <div class="blog-post-broken">
                   <div class="post-img">
-                    <a href="blog-single.html"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
+                    <a href="#"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
                   </div>
                   <div class="post-content">
-                    <h3 class="post-title"><a href="blog-single.html">ENVIRONEMENT ET SANTE</a></h3>
+                    <h3 class="post-title"><a href="#">ENVIRONEMENT ET SANTE</a></h3>
 
                     <p>Nous oeuvrons activement  dans la lutte contre la déforestation à travers nos programmes de reboisement.Nous favorisons la plantation d'arbres qui sont les poumons de la nature et dont l'humain ne peut pas vivre sans( manguiers, citronniers, bananier et tout autre arbres permettant à l'humain de mieux vivre</p>
 
@@ -266,9 +266,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     </div>
                 </div>
                 <!--/.icon-->
-                <h1>Thanks!</h1>
-                <p>Your message have been sent successfully
-                    <br>We'll be back to you very soon.</p>
+                <h1>Merciu!</h1>
+                <p>Votre candidature a été reçu avec succès
+                    <br>Nous vous recontacterons très bientôt.</p>
                 <button type="button" class="redo btn close">Ok</button>
             </div>
 

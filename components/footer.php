@@ -10,9 +10,10 @@
           <p>Une vie, Un espoir. <br> Pour un monde plus juste</p>
           <div class="social-icons">
             <ul class="list-unstyled list-group list-group-horizontal">
-              <li><a href="#"><i class="icofont-facebook"></i></a></li>
-              <li><a href="#"><i class="icofont-instagram"></i></a></li>
-              <li><a href="#"><i class="icofont-youtube-play"></i></a></li>
+            <a target="_blank" href="https://www.facebook.com/Une-vie-un-espoir-togo-107847621954042/"><i class="icofont-facebook"></i></a>
+              <a target="_blank" href="https://mobile.twitter.com/Uvue_togo"><i class="icofont-twitter"></i></a>
+              <a target="_blank" href="https://www.instagram.com/uvue_togo/"><i class="icofont-instagram"></i></a>
+              <a target="_blank" href="https://youtube.com/@uvue_Togo"><i class="icofont-youtube-play"></i></a>
             </ul>
           </div>
         </div>
@@ -32,13 +33,13 @@
               </li>
               <li>
                 <div><i data-feather="mail"></i> </div>
-                <div><a
+                <div><a target="_blank"
                     href="https://mannatstudio.com/cdn-cgi/l/email-protection#97fef9f1f8d7fff8e7f2e5f6fee4f2b9f4f8fa"><span>uvue.togo@gmail.com</span>
                       </span></a></div>
               </li>
               <li>
                 <div><i data-feather="clock"></i> </div>
-                <div>Lun-Ven / 7h:00 AM - 17h:00</div>
+                <div>Lun-Ven / 7h:00 - 17h:00</div>
               </li>
             </ul>
           </div>
@@ -55,7 +56,7 @@
               <li><a href="index.php"><i class="icofont-simple-right"></i> <span>Acceuil</span></a></li>
               <li><a href="a-propos.php"><i class="icofont-simple-right"></i> <span>A Propos</span></a></li>
               <li><a href="nos-actions.php"><i class="icofont-simple-right"></i> <span>Nos actions</span></a></li>
-              <li><a href="devenir-volontaire"><i class="icofont-simple-right"></i> <span>Devenir volontaire</span></a></li>
+              <li><a href="devenir-benevole·php"><i class="icofont-simple-right"></i> <span>Devenir Bénévole</span></a></li>
               <li><a target="_blank"  href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas"><i class="icofont-simple-right"></i> <span>Faire un don</span></a></li>
             </ul>
           </div>
@@ -66,32 +67,32 @@
           <h3 class="footer-heading">Photo Gallery</h3>
           <ul  class="photo-thumbs">
              <li> 
-              <a href="https://live.staticflickr.com/3940/15647274066_2ee48c3fe9_b.jpg">
+              <a href="">
               <img src="assets/images/gallery/gallery_img_1.jpg" alt="Halloween 2014 at Envato in Melbourne">
             </a>
           </li>
             <li>
-               <a href="https://live.staticflickr.com/3945/15485436268_846ccca178_b.jpg">
+               <a href="">
                 <img src="assets/images/gallery/gallery_img_2.jpg" alt="Halloween 2014 at Envato in Melbourne">
               </a>
             </li>
             <li>
-               <a href="https://live.staticflickr.com/3956/15668911091_4ef20118b5_b.jpg">
+               <a href="">
                 <img src="assets/images/gallery/gallery_img_4.jpg" alt="Halloween 2014 at Envato in Melbourne">
               </a>
             </li>
             <li>
-              <a href="https://live.staticflickr.com/5605/15484954949_a4e97a9dc5_b.jpg">
+              <a href="">
                 <img src="assets/images/gallery/gallery_img_3.jpg" alt="Halloween 2014 at Envato in Melbourne">
               </a>
             </li>
             <li>
-              <a href="https://live.staticflickr.com/7490/15647103116_1e4b9033f0_b.jpg">
+              <a href="">
                 <img src="assets/images/gallery/gallery_img_5.jpg" alt="Halloween 2014 at Envato in Melbourne">
               </a>
             </li>
             <li>
-              <a href="https://live.staticflickr.com/5599/15668909741_eaf3db4054_b.jpg">
+              <a href="">
                 <img src="assets/images/gallery/gallery_img_6.jpg" alt="Halloween 2014 at Envato in Melbourne">
               </a>
             </li>

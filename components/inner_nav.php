@@ -4,24 +4,23 @@
         <div class="row align-items-center">
           <div class="col d-flex align-items-center contact-info">
             <div>
-              <i data-feather="phone"></i> <a href="tel:+1234567899">+228 93577339</a>
+              <i data-feather="phone"></i> <a href="tel:+22893577339">+228 93577339</a>
             </div>
             <div>
               <i data-feather="mail"></i> <a
-                href="https://mannatstudio.com/cdn-cgi/l/email-protection#1c75727a735c7b6e7d7f7573696f327f7371"><span
-                  class="__cf_email__"
-                  data-cfemail="2d44434b426d4a5f4c4e4442585e034e4240">uvue.togo@gmail.com</span></a>
+                href="mailto:uvue.togo@gmail.com"><span
+                  class="__cf_email__">uvue.togo@gmail.com</span></a>
             </div>
             <div>
-              <i data-feather="clock"></i> Lun-Ven / 9h:00 - 19h:00
+              <i data-feather="clock"></i> Lun-Ven / 7h:00 - 17h:00
             </div>
           </div>
           <div class="col-md-auto">
             <div class="social-icons">
-              <a href="#"><i class="icofont-facebook"></i></a>
-              <a href="#"><i class="icofont-twitter"></i></a>
-              <a href="#"><i class="icofont-instagram"></i></a>
-              <a href="#"><i class="icofont-youtube-play"></i></a>
+            <a target="_blank" href="https://www.facebook.com/Une-vie-un-espoir-togo-107847621954042/"><i class="icofont-facebook"></i></a>
+              <a target="_blank" href="https://mobile.twitter.com/Uvue_togo"><i class="icofont-twitter"></i></a>
+              <a target="_blank" href="https://www.instagram.com/uvue_togo/"><i class="icofont-instagram"></i></a>
+              <a target="_blank" href="https://youtube.com/@uvue_Togo"><i class="icofont-youtube-play"></i></a>
             </div>
           </div>
         </div>
@@ -37,7 +36,7 @@
         </div>
 
         <div class="d-inline-flex request-btn order-lg-last col-auto p-0 align-items-center">
-          <a class="nav-link btn btn-default ml-3 donate-btn" href="donation-page.html">Faire un don</a>
+          <a  target="_blank"  class="nav-link btn btn-default ml-3 donate-btn" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas">Faire un don</a>
 
           <button class="navbar-toggler x collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,7 +60,7 @@
               <a class="nav-link" href="a-propos.php">Nous connaître</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="devenir-volontaire.php">Devenir Bénévole</a>
+              <a class="nav-link" href="devenir-benevole.php">Devenir Bénévole</a>
             </li>
 
           </ul>

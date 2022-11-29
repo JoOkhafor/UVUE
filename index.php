@@ -25,7 +25,7 @@
         <div class="row align-items-center">
           <div class="col d-flex align-items-center contact-info">
             <div>
-              <i data-feather="phone"></i> <a href="tel:+1234567899">+228 93577339</a>
+              <i data-feather="phone"></i> <a href="tel:+22893577339">+228 93577339</a>
             </div>
             <div>
               <i data-feather="mail"></i> <a
@@ -38,9 +38,10 @@
           </div>
           <div class="col-md-auto">
             <div class="social-icons">
-              <a href="#"><i class="icofont-facebook"></i></a>
-              <a href="#"><i class="icofont-instagram"></i></a>
-              <a href="#"><i class="icofont-youtube-play"></i></a>
+              <a target="_blank" href="https://www.facebook.com/Une-vie-un-espoir-togo-107847621954042/"><i class="icofont-facebook"></i></a>
+              <a target="_blank" href="https://mobile.twitter.com/Uvue_togo"><i class="icofont-twitter"></i></a>
+              <a target="_blank" href="https://www.instagram.com/uvue_togo/"><i class="icofont-instagram"></i></a>
+              <a target="_blank" href="https://youtube.com/@uvue_Togo"><i class="icofont-youtube-play"></i></a>
             </div>
           </div>
         </div>
@@ -80,7 +81,7 @@
               <a class="nav-link" href="a-propos.php">Nous connaître</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="devenir-volontaire.php">Devenir Bénévole</a>
+              <a class="nav-link" href="devenir-benevole.php">Devenir Bénévole</a>
             </li>
 
           </ul>
@@ -108,7 +109,7 @@
                   </h1>
                   <div class="owl-slide-animated owl-slide-cta">
                     <a class="btn btn-default mr-3" href="#read_more" role="button">En savoir plus</a>
-                    <a class="slider-link popup-video" href="https://player.vimeo.com/video/7449107">Découvrir<i
+                    <a class="slider-link popup-video" href="#about_us">Découvrir<i
                         class="charity-play_button"></i></a>
                   </div>
                 </div>
@@ -130,7 +131,7 @@
                   </h1>
                   <div class="owl-slide-animated owl-slide-cta">
                     <a class="btn btn-default mr-3" href="#read_more" role="button">En savoir plus</a>
-                    <a class="slider-link popup-video" href="https://player.vimeo.com/video/7449107">Découvrir<i
+                    <a class="slider-link popup-video" href="#about_us">Découvrir<i
                         class="charity-play_button"></i></a>
                   </div>
                 </div>
@@ -151,7 +152,7 @@
                   </h1>
                   <div class="owl-slide-animated owl-slide-cta">
                     <a class="btn btn-default mr-3" href="#read_more" role="button">En savoir plus</a>
-                    <a class="slider-link popup-video" href="https://player.vimeo.com/video/7449107">Découvrir<i
+                    <a class="slider-link popup-video" href="#about_us">Découvrir<i
                         class="charity-play_button"></i></a>
                   </div>
                 </div>
@@ -183,7 +184,7 @@
                 <h3 class="h3-sm fw-7 txt-white mb-3">Contribuez à notre campagne de financement afin de redonner le sourire à un enfant démuni</h3>
                 <div class="">
 
-                  <a href="causes-single.html"><img src="assets/images/donation.png" alt=""></a>
+                  <a href="#"><img src="assets/images/donation.png" alt=""></a>
 
                 </div>
                 <a target="_blank" class="btn btn-default mt-3 btn-block" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas"> Faire un don
@@ -211,7 +212,7 @@
                   <div class="icon-box-1">
                     <i class="charity-volunteer_people"></i>
                     <div class="text">
-                      <h3>3,750 <br> <span>Volontaires</span></h3>
+                      <h3>22 <br> <span>Volontaires</span></h3>
                     </div>
                   </div>
                 </div>
@@ -221,13 +222,13 @@
                   <div class="icon-box-1">
                     <i class="charity-donate_money"></i>
                     <div class="text">
-                      <h3>14 <br> <span>Pojets réalisés</span></h3>
+                      <h3>38 <br> <span>Enfants aidés</span></h3>
                     </div>
                   </div>
                 </div>
 
               </div>
-              <a href="become-volunteers.html" class="btn btn-outline-default">Devenir volontaire</a>
+              <a href="devenir-benevole.php" class="btn btn-outline-default">Devenir volontaire</a>
             </div>
           </div>
 
@@ -260,13 +261,13 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/causes/causes_img_3.jpg" alt=""></a>
               </div>
               <div class="text">
                 <h3>SOCIAL</h3>
                 <p>Nous organisons en milieux scolaires des sensibilisation sur l'hygiène, les  premiers secours...</p>
                 <div class="text-md-right">
-                  <a href="causes-single.html" class="read-more-line"><span>Lire plus</span></a>
+                  <a href="nos-actions.php" class="read-more-line"><span>Lire plus</span></a>
                 </div>
               </div>
             </div>
@@ -276,13 +277,13 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/causes/causes_img_1.jpg" alt=""></a>
               </div>
               <div class="text">
                 <h3>EDUCATION</h3>
                 <p>Nous soutenons l'éducation des enfants à travers des séances de soutien scolaire...</p>
                 <div class="text-md-right">
-                  <a href="nos-activites.html" class="read-more-line"><span>Lire plus</span></a>
+                  <a href="nos-actions.php" class="read-more-line"><span>Lire plus</span></a>
                 </div>
               </div>
             </div>
@@ -295,14 +296,14 @@
 
             <div class="icon-box-with-img">
               <div class="img">
-                <a href="nos-activites.html"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/causes/causes_img_6.jpg" alt=""></a>
               </div>
               <div class="text">
                 <h3>ENVIRONEMENT ET SANTE
                 </h3>
                 <p>Nous favorisons le reboisement afin de contrer la déforestation sous toute ces formes.</p>
                 <div class="text-md-right">
-                  <a href="nos-activites.html" class="read-more-line"><span>Lire plus</span></a>
+                  <a href="nos-actions.php" class="read-more-line"><span>Lire plus</span></a>
                 </div>
               </div>
             </div>
@@ -313,7 +314,7 @@
     </section>
 
 
-    <section class="wide-tb-100 bg-white">
+    <section class="wide-tb-100 bg-white" id="about_us">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-7 col-md-12">
@@ -330,7 +331,7 @@
             </p>
 
             <div class="d-flex">
-              <a class="btn btn-default mr-3" href="become-volunteers.html">En savoir plus</a>
+              <a class="btn btn-default mr-3" href="a-propos.php">En savoir plus</a>
              
             </div>
           </div>
@@ -343,7 +344,7 @@
         
         <div class="col col-12 col-lg-3 col-sm-6 mb-sm-0">
         <div class="counter-style-box">
-        <div class="counter-txt"><span class="counter">180</span>+</div>
+        <div class="counter-txt"><span class="counter">22</span>+</div>
         <div>Volontaires</div>
         </div>
         </div>
@@ -351,7 +352,7 @@
         
         <div class="col col-12 col-lg-3 col-sm-6 mb-sm-0">
         <div class="counter-style-box">
-        <div class="counter-txt"><span class="counter">71</span>+</div>
+        <div class="counter-txt"><span class="counter">8</span>+</div>
         <div>Projets en cours</div>
         </div>
         </div>
@@ -362,16 +363,16 @@
         
         <div class="col col-12 col-lg-3 col-sm-6 mb-sm-0">
         <div class="counter-style-box">
-        <div class="counter-txt"><span class="counter">250</span>+</div>
-        <div>Dedicated Volunteers</div>
+        <div class="counter-txt"><span class="counter">4</span>+</div>
+        <div>Zones d'actions</div>
         </div>
         </div>
         
         
         <div class="col col-12 col-lg-3 col-sm-6 mb-sm-0">
         <div class="counter-style-box">
-        <div class="counter-txt"><span class="counter">1530</span>+</div>
-        <div>People Helped Happily</div>
+        <div class="counter-txt"><span class="counter">38</span>+</div>
+        <div>Enfants aidés</div>
         </div>
         </div>
         
@@ -389,7 +390,7 @@
               <small>Nous soutenir</small>
              Contribuez à notre collecte de  "PROJET MÔME CHRISTMAS" en faveur des enfants démunis
             </h1>
-            <a href="donation-page.html" class="btn btn-default">Faire un don</a>
+            <a target="_blank" href="https://www.papayoux-solidarite.com/fr/collecte/noel-des-enfants-demunis-et-malades-projet-mome-christmas" class="btn btn-default">Faire un don</a>
           </div>
         </div>
       </div>
@@ -413,11 +414,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_1.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_1.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">VOYAGER AVEC NOUS</a></h3>
+                  <h3><a href="devenir-benevole.php">VOYAGER AVEC NOUS</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -431,11 +432,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_3.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_3.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">STAGE INTERNATIONAL</a></h3>
+                  <h3><a href="devenir-benevole.php">STAGE INTERNATIONAL</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -449,11 +450,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_4.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_4.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">STAGE INFIRMIER​  </a></h3>
+                  <h3><a href="devenir-benevole.php">STAGE INFIRMIER​  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -467,11 +468,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_5.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_5.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">SOUTIEN SCOLAIRE</a></h3>
+                  <h3><a href="devenir-benevole.php">SOUTIENT SCOLAIRE</a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -484,11 +485,11 @@
             <div class="event-wrap-alternate">
 
               <div class="img-wrap">
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_6.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_6.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">BÉNÉVOLAT - RENFORCEMENT ASSOCIATIF                  </a></h3>
+                  <h3><a href="devenir-benevole.php">BÉNÉVOLAT - RENFORCEMENT ASSOCIATIF                  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
@@ -501,11 +502,11 @@
 
               <div class="img-wrap">
                
-                <a href="events-single.html"><img src="assets/images/events/event_alternate_img_7.jpg" alt=""></a>
+                <a href="#"><img src="assets/images/events/event_alternate_img_7.jpg" alt=""></a>
                 <div class="content-wrap">
-                  <h3><a href="events-single.html">CAMPS CHANTIERS                  </a></h3>
+                  <h3><a href="devenir-benevole.php">CAMPS CHANTIERS                  </a></h3>
                   <div class="event-details">
-                    <a href="#" class="btn btn-default">En savoir plus</a>
+                    <a href="devenir-benevole.php" class="btn btn-default">En savoir plus</a>
                   </div>
                 </div>
               </div>
